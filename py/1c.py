@@ -1,10 +1,9 @@
-# Question: Task 1 - Create a simple socket connection where the client sends a message
-# and the server responds. Send numbers to the server and display the sum.
+#ipc
 
 import socket
 
 HOST = "127.0.0.1"
-PORT = 5001
+PORT = 5002
 
 numbers = input("Enter numbers separated by spaces: ")
 

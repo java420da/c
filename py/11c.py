@@ -1,5 +1,4 @@
-# Question: Task 2 - Define DataObject(name, values), serialize it with pickle,
-# send it from the client to the server, and display the server's sum response.
+#ipc
 
 import socket
 import pickle
